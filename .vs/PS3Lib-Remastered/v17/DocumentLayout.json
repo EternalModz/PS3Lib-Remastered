@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib-Remastered.csproj|c:\\users\\eternalmodz\\desktop\\d\\development-modding\\windows\\ps3lib-master\\ps3lib\\ps3lib-remastered.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib-Remastered.csproj|solutionrelative:ps3lib\\ps3lib-remastered.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|c:\\users\\eternalmodz\\desktop\\d\\development-modding\\windows\\ps3lib-master\\ps3lib\\src\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|solutionrelative:ps3lib\\src\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|c:\\users\\eternalmodz\\desktop\\d\\development-modding\\windows\\ps3lib-master\\ps3lib\\src\\api\\enums\\tmapienums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|solutionrelative:ps3lib\\src\\api\\enums\\tmapienums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|c:\\users\\eternalmodz\\desktop\\d\\development-modding\\windows\\ps3lib-master\\ps3lib\\src\\api\\enums\\tmapi_netenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|solutionrelative:ps3lib\\src\\api\\enums\\tmapi_netenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|c:\\users\\eternalmodz\\desktop\\d\\development-modding\\windows\\ps3lib-master\\ps3lib\\src\\api\\enums\\mapienums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|solutionrelative:ps3lib\\src\\api\\enums\\mapienums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|c:\\users\\eternalmodz\\desktop\\d\\development-modding\\windows\\ps3lib-master\\ps3lib\\src\\api\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|solutionrelative:ps3lib\\src\\api\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|c:\\users\\eternalmodz\\desktop\\d\\development-modding\\windows\\ps3lib-master\\ps3lib\\src\\api\\enums\\ccapienums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|solutionrelative:ps3lib\\src\\api\\enums\\ccapienums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|c:\\users\\eternalmodz\\desktop\\d\\development-modding\\windows\\ps3lib-master\\ps3lib\\src\\api\\ps3api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|solutionrelative:ps3lib\\src\\api\\ps3api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|c:\\users\\eternalmodz\\desktop\\d\\development-modding\\windows\\ps3lib-master\\ps3lib\\src\\api\\impl\\mapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|solutionrelative:ps3lib\\src\\api\\impl\\mapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|c:\\users\\eternalmodz\\desktop\\d\\development-modding\\windows\\ps3lib-master\\ps3lib\\src\\api\\impl\\ccapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|solutionrelative:ps3lib\\src\\api\\impl\\ccapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|c:\\users\\eternalmodz\\desktop\\d\\development-modding\\windows\\ps3lib-master\\ps3lib\\src\\api\\impl\\tmapi\\tmapi_net.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|solutionrelative:ps3lib\\src\\api\\impl\\tmapi\\tmapi_net.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|c:\\users\\eternalmodz\\desktop\\d\\development-modding\\windows\\ps3lib-master\\ps3lib\\src\\api\\impl\\tmapi\\tmapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|solutionrelative:ps3lib\\src\\api\\impl\\tmapi\\tmapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|c:\\users\\eternalmodz\\desktop\\d\\development-modding\\windows\\ps3lib-master\\ps3lib\\src\\extra\\arraybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|solutionrelative:ps3lib\\src\\extra\\arraybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|c:\\users\\eternalmodz\\desktop\\d\\development-modding\\windows\\ps3lib-master\\ps3lib\\src\\extra\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|solutionrelative:ps3lib\\src\\extra\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|c:\\users\\eternalmodz\\desktop\\d\\development-modding\\windows\\ps3lib-master\\ps3lib\\src\\extra\\native.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F4A5C5-A17D-4E9A-B722-67A8A939F01B}|PS3Lib\\PS3Lib.csproj|solutionrelative:ps3lib\\src\\extra\\native.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PS3Lib-Remastered",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\PS3Lib-Remastered.csproj",
+              "RelativeDocumentMoniker": "PS3Lib\\PS3Lib-Remastered.csproj",
+              "ToolTip": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\PS3Lib-Remastered.csproj",
+              "RelativeToolTip": "PS3Lib\\PS3Lib-Remastered.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T00:40:43.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PS3API.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\PS3API.cs",
+              "RelativeDocumentMoniker": "PS3Lib\\src\\api\\PS3API.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\PS3API.cs",
+              "RelativeToolTip": "PS3Lib\\src\\api\\PS3API.cs",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAcwA4BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:23:33.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MAPI.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\impl\\MAPI.cs",
+              "RelativeDocumentMoniker": "PS3Lib\\src\\api\\impl\\MAPI.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\impl\\MAPI.cs",
+              "RelativeToolTip": "PS3Lib\\src\\api\\impl\\MAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:23:18.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CCAPI.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\impl\\CCAPI.cs",
+              "RelativeDocumentMoniker": "PS3Lib\\src\\api\\impl\\CCAPI.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\impl\\CCAPI.cs",
+              "RelativeToolTip": "PS3Lib\\src\\api\\impl\\CCAPI.cs",
+              "ViewState": "AQIAAG8CAAAAAAAAAAAAAIMCAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:23:08.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TMAPI_NET.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\impl\\TMAPI\\TMAPI_NET.cs",
+              "RelativeDocumentMoniker": "PS3Lib\\src\\api\\impl\\TMAPI\\TMAPI_NET.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\impl\\TMAPI\\TMAPI_NET.cs",
+              "RelativeToolTip": "PS3Lib\\src\\api\\impl\\TMAPI\\TMAPI_NET.cs",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAiwPEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:22:58.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TMAPI.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\impl\\TMAPI\\TMAPI.cs",
+              "RelativeDocumentMoniker": "PS3Lib\\src\\api\\impl\\TMAPI\\TMAPI.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\impl\\TMAPI\\TMAPI.cs",
+              "RelativeToolTip": "PS3Lib\\src\\api\\impl\\TMAPI\\TMAPI.cs",
+              "ViewState": "AQIAABwBAAAAAAAAAAAAADABAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:22:48.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TMAPIEnums.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\enums\\TMAPIEnums.cs",
+              "RelativeDocumentMoniker": "PS3Lib\\src\\api\\enums\\TMAPIEnums.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\enums\\TMAPIEnums.cs",
+              "RelativeToolTip": "PS3Lib\\src\\api\\enums\\TMAPIEnums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:22:35.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TMAPI_NETEnums.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\enums\\TMAPI_NETEnums.cs",
+              "RelativeDocumentMoniker": "PS3Lib\\src\\api\\enums\\TMAPI_NETEnums.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\enums\\TMAPI_NETEnums.cs",
+              "RelativeToolTip": "PS3Lib\\src\\api\\enums\\TMAPI_NETEnums.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:22:31.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MAPIEnums.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\enums\\MAPIEnums.cs",
+              "RelativeDocumentMoniker": "PS3Lib\\src\\api\\enums\\MAPIEnums.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\enums\\MAPIEnums.cs",
+              "RelativeToolTip": "PS3Lib\\src\\api\\enums\\MAPIEnums.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:22:28.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\enums\\Enums.cs",
+              "RelativeDocumentMoniker": "PS3Lib\\src\\api\\enums\\Enums.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\enums\\Enums.cs",
+              "RelativeToolTip": "PS3Lib\\src\\api\\enums\\Enums.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:22:24.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CCAPIEnums.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\enums\\CCAPIEnums.cs",
+              "RelativeDocumentMoniker": "PS3Lib\\src\\api\\enums\\CCAPIEnums.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\api\\enums\\CCAPIEnums.cs",
+              "RelativeToolTip": "PS3Lib\\src\\api\\enums\\CCAPIEnums.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAA4wF8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:22:19.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\extra\\Extensions.cs",
+              "RelativeDocumentMoniker": "PS3Lib\\src\\extra\\Extensions.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\extra\\Extensions.cs",
+              "RelativeToolTip": "PS3Lib\\src\\extra\\Extensions.cs",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAywCUBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:21:53.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Native.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\extra\\Native.cs",
+              "RelativeDocumentMoniker": "PS3Lib\\src\\extra\\Native.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\extra\\Native.cs",
+              "RelativeToolTip": "PS3Lib\\src\\extra\\Native.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:21:52.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LICENSE.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\LICENSE.cs",
+              "RelativeDocumentMoniker": "PS3Lib\\src\\LICENSE.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\LICENSE.cs",
+              "RelativeToolTip": "PS3Lib\\src\\LICENSE.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAAAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:21:24.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ArrayBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\extra\\ArrayBuilder.cs",
+              "RelativeDocumentMoniker": "PS3Lib\\src\\extra\\ArrayBuilder.cs",
+              "ToolTip": "C:\\Users\\EternalModz\\Desktop\\D\\Development-Modding\\Windows\\PS3Lib-master\\PS3Lib\\src\\extra\\ArrayBuilder.cs",
+              "RelativeToolTip": "PS3Lib\\src\\extra\\ArrayBuilder.cs",
+              "ViewState": "AQIAABMBAAAAAAAAAAAiwCMBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:16:16.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

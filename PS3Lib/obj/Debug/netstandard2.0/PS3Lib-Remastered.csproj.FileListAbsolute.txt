@@ -1,0 +1,10 @@
+C:\Users\EternalModz\Desktop\D\Development-Modding\Windows\PS3Lib-master\PS3Lib\bin\Debug\netstandard2.0\PS3Lib-Remastered.deps.json
+C:\Users\EternalModz\Desktop\D\Development-Modding\Windows\PS3Lib-master\PS3Lib\bin\Debug\netstandard2.0\PS3Lib-Remastered.dll
+C:\Users\EternalModz\Desktop\D\Development-Modding\Windows\PS3Lib-master\PS3Lib\bin\Debug\netstandard2.0\PS3Lib-Remastered.pdb
+C:\Users\EternalModz\Desktop\D\Development-Modding\Windows\PS3Lib-master\PS3Lib\obj\Debug\netstandard2.0\PS3Lib-Remastered.csproj.AssemblyReference.cache
+C:\Users\EternalModz\Desktop\D\Development-Modding\Windows\PS3Lib-master\PS3Lib\obj\Debug\netstandard2.0\PS3Lib-Remastered.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EternalModz\Desktop\D\Development-Modding\Windows\PS3Lib-master\PS3Lib\obj\Debug\netstandard2.0\PS3Lib-Remastered.AssemblyInfoInputs.cache
+C:\Users\EternalModz\Desktop\D\Development-Modding\Windows\PS3Lib-master\PS3Lib\obj\Debug\netstandard2.0\PS3Lib-Remastered.AssemblyInfo.cs
+C:\Users\EternalModz\Desktop\D\Development-Modding\Windows\PS3Lib-master\PS3Lib\obj\Debug\netstandard2.0\PS3Lib-Remastered.csproj.CoreCompileInputs.cache
+C:\Users\EternalModz\Desktop\D\Development-Modding\Windows\PS3Lib-master\PS3Lib\obj\Debug\netstandard2.0\PS3Lib-Remastered.dll
+C:\Users\EternalModz\Desktop\D\Development-Modding\Windows\PS3Lib-master\PS3Lib\obj\Debug\netstandard2.0\PS3Lib-Remastered.pdb
